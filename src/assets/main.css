@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: #dae7ef !important;
+}
+
+.card {
+  background-color: #e0f2fe;
+}
+
+.navbar {
+  align-items: center;
+  background-color: #1e293b;
+  border-radius: 2rem;
+  margin: .5rem;
+}
+
+.navbar-links {
+  display: flex;
+  margin: .1rem 2rem;
+}
+
+.nav-link {
+  color: #fff !important;
+  margin: 0 1rem;
+  text-decoration: none;
+}
