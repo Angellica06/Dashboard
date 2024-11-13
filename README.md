@@ -1,29 +1,12 @@
-# dashboard
+# Dashboard
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto de Dashboad desenvolvido utilizando o Vue, Html, Css, Bootstrap e o chart.js para criação dos gráficos. 
+Projeto de uma página de dashboard de vendas com dados fixos. A interface da página desenvolvida por mim, incluindo o design e a implementação dos componentes, com
+um foco em responsividade e usabilidade.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Link do deploy: https://dashboardvenda.netlify.app/
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![localhost_5173_ (2)](https://github.com/user-attachments/assets/b8a0d85b-c53b-4c4c-854e-2e00a7c754b5)
